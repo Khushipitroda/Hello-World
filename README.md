@@ -1,4 +1,4 @@
-# Welcome to Hello-World  
+# Welcome to Hello-World Program 
 ### This repository serves as a learning tool for new contributors to open-source, but ***pull requests here won’t count toward Hacktoberfest***. 
 # Getting Started
 * Fork this repository on GitHub by clicking the <kbd><b>Fork</b></kbd> 
